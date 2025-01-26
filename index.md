@@ -17,8 +17,8 @@ Welcome to **The Art of Machine Learning**—where data becomes art, and art bec
 
 ---
 
-**Slogan:** *"Machine Learning: Where Algorithms Meet Imagination, and Data Transforms into Wisdom."*  
+**"Machine Learning: Where Algorithms Meet Imagination, and Data Transforms into Wisdom."**  
 
 ---
 
-## 每周博客
+### Weekly Blog
