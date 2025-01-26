@@ -8,10 +8,10 @@ This blog is more than a repository of technical knowledge—it is a philosophic
 
 Our mission is to:
 
-**Study:** Dive deep into the principles, algorithms, and methodologies of machine learning and AI.
-**Research: **Investigate the latest advancements and their implications across industries.
-**Share: **Disseminate knowledge and skills to empower individuals and organizations.
-**Apply:** Demonstrate how ML and AI can be applied in agriculture, finance, accounting, healthcare, and beyond to create tangible value.
+- **Study:** Dive deep into the principles, algorithms, and methodologies of machine learning and AI.
+- **Research:** Investigate the latest advancements and their implications across industries.
+- **Share:** Disseminate knowledge and skills to empower individuals and organizations.
+- **Apply:** Demonstrate how ML and AI can be applied in agriculture, finance, accounting, healthcare, and beyond to create tangible value.
 
 ### Themes We Explore
 
@@ -35,11 +35,11 @@ Machine learning and AI are not confined to Earth—they are tools for exploring
 
 We investigate the practical applications of ML and AI in various sectors:
 
-**Agriculture**: Optimizing crop yields, predicting weather patterns, and reducing waste.
-**Finance**: Detecting fraud, automating trading, and personalizing financial services.
-**Accounting**: Streamlining audits, improving compliance, and enhancing decision-making.
-**Healthcare**: Diagnosing diseases, personalizing treatments, and accelerating drug discovery.
-**And Beyond**: From education to entertainment, we explore how AI is reshaping every aspect of our lives.
+- **Agriculture**: Optimizing crop yields, predicting weather patterns, and reducing waste.
+- **Finance**: Detecting fraud, automating trading, and personalizing financial services.
+- **Accounting**: Streamlining audits, improving compliance, and enhancing decision-making.
+- **Healthcare**: Diagnosing diseases, personalizing treatments, and accelerating drug discovery.
+- **And Beyond**: From education to entertainment, we explore how AI is reshaping every aspect of our lives.
 
 ### Why This Blog?
 
