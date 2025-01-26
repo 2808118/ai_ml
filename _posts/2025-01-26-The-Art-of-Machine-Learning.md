@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Art of Machine Learning 
+title: 2025.01.26 The Art of Machine Learning 
 tags: R programming
 categories: R, Machine Learning
 ---
