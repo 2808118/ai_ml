@@ -1,5 +1,5 @@
 ---
 layout: page
-title: About1
+title: Resources
 ---
 
