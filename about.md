@@ -1,7 +1,37 @@
 ---
 layout: page
 title: The Art of Machine Learning
+date: 2025-01-26
+location: Brisbane, Australia
+tags:
+  - machine learning
+  - artificial intelligence
+  - philosophy of AI
+  - ethics in AI
+  - human cognition
+  - data science
+  - predictive modeling
+  - algorithmic bias
+  - future of technology
+  - 2025 trends
+  - theoretical foundations
+  - probabilistic thinking
+  - causality
+  - creativity in AI
+  - ethical dilemmas
+  - human-machine interaction
+  - knowledge and data
+  - machine intelligence
+  - technological evolution
+  - AI ethics
+  - human curiosity
+  - creativity and technology
+  - AI and society
+  - future of AI
+  - machine learning philosophy
+  - AI and human understanding
 ---
+
 ![The Art of Machine Learning](https://raw.githubusercontent.com/2808118/ai_ml/refs/heads/main/_assets/ml_pic.webp)
 *The Art of Machine Learning - A visual representation of the intersection between technology and creativity.*
 
@@ -20,9 +50,3 @@ As we embark on this journey together, let us remember that machine learning is 
 Welcome to the future of machine learning. 
 
 Welcome to 2025.
-
-26/01/2025 @ Brisbane, Australia
-
-Tags
-
-machine learning, artificial intelligence, philosophy of AI, ethics in AI, human cognition, data science, predictive modeling, algorithmic bias, future of technology, 2025 trends, theoretical foundations, probabilistic thinking, causality, creativity in AI, ethical dilemmas, human-machine interaction, knowledge and data, machine intelligence, technological evolution, AI ethics, human curiosity, creativity and technology, AI and society, future of AI, machine learning philosophy, AI and human understanding
