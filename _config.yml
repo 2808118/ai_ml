@@ -1,0 +1,9 @@
+# Site settings
+title: The Art of Machine Learning (ML)
+author:
+  name: Nick Han
+  email: h2808118@hotmail.com
+description: "Machine Learning: Where Algorithms Meet Imagination, and Data Transforms into Wisdom."
+
+# Build settings
+remote_theme: jekyll/minima
