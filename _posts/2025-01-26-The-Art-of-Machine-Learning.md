@@ -22,7 +22,9 @@ In this blog, we will explore not just the technical intricacies of machine lear
 
 As we embark on this journey together, let us remember that machine learning is not just a tool—it is a testament to humanity’s enduring curiosity, creativity, and capacity for growth. It is a bridge between the empirical and the abstract, the known and the unknown, the human and the machine. And as we continue to push the boundaries of what is possible, let us also strive to remain mindful of the profound implications of our work.  
 
-Welcome to the future of machine learning. Welcome to 2025.  
+Welcome to the future of machine learning. 
+
+Welcome to 2025.  
 
 ---
 
