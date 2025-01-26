@@ -1,9 +1,6 @@
 ---
 layout: home
 ---
-<img width="200" src="https://user-images.githubusercontent.com/90954432/197385297-bee19d53-1b3e-406a-8ff5-9ebc4beb1fa1.jpeg">
-
----
 
 ## Welcome to The Art of Machine Learning  
 
