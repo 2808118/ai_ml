@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Art of Machine Learning
+title: about
 date: 2025-01-26
 location: Brisbane, Australia
 tags:
@@ -32,8 +32,7 @@ tags:
   - AI and human understanding
 ---
 
-![The Art of Machine Learning](https://raw.githubusercontent.com/2808118/ai_ml/refs/heads/main/_assets/ml_pic.webp)
-*The Art of Machine Learning - A visual representation of the intersection between technology and creativity.*
+# The Art of Machine Learning
 
 As we stand on the precipice of 2025, the world of machine learning continues to evolve at an unprecedented pace, reshaping not only the technological landscape but also the very fabric of human understanding. At its core, machine learning is more than just algorithms, data, and computational power—it is a profound reflection of humanity’s quest to decode the patterns of existence, to find order in chaos, and to create systems that can learn, adapt, and perhaps even think.
 
