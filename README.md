@@ -12,7 +12,9 @@ As we embark on this journey together, let us remember that machine learning is 
 
 Welcome to the future of machine learning. Welcome to 2025.
 
+
 2025. 01. 26 @ Brisbane, Australia
+
 
 Tags
 
