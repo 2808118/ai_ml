@@ -6,4 +6,4 @@ author:
 description: "Machine Learning: Where Algorithms Meet Imagination, and Data Transforms into Wisdom."
 
 # Build settings
-remote_theme: "jeffreytse/jekyll-theme-yat"
+remote_theme: jeffreytse/jekyll-theme-yat
