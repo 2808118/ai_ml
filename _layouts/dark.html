@@ -1,6 +1,13 @@
 ---
 layout: page
 ---
-<div style="background:black; color: black; padding: 25px;">
+<html>
+  <head>
+    <title>{{ page.title }}</title>
+  </head>
+  <body>
+    {% include header.html %}
     {{ content }}
-</div>
+    {% include footer.html %}
+  </body>
+</html>
